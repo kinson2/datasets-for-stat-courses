@@ -20,5 +20,10 @@ This is a collection of datasets that are shareable, public, and useful for data
   * [Original source](https://data.illinois.gov/dataset/jail-data-1-01-19-thru-7-31-20)
 
 ### Housing
-* [City of Urbana Rental Inspection Grades Listing .(.csv)](https://data.urbanaillinois.us/api/views/tn7v-fm2b/rows.csv?accessType=DOWNLOAD)
+* [City of Urbana Rental Inspection Grades Listing (.csv)](https://data.urbanaillinois.us/api/views/tn7v-fm2b/rows.csv?accessType=DOWNLOAD)
   * [Original source](https://data.urbanaillinois.us/Buildings/Rental-Inspection-Grades-Listing/tn7v-fm2b)
+
+### Dining and Food
+* [City of Chicago Food Inspections (.csv)](https://data.cityofchicago.org/api/views/4ijn-s7e5/rows.csv?accessType=DOWNLOAD)
+  * [Data key](https://data.cityofchicago.org/api/assets/BAD5301B-681A-4202-9D25-51B2CAE672FF?download=true)
+  * [Original source](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5)
