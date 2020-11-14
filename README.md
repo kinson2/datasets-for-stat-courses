@@ -3,11 +3,19 @@ This is a collection of datasets that are shareable, public, and useful for data
 
 ## Clean Data (little cleaning and wrangling needed)
 
-### Traffic
-* 
+### COVID-19
+* [The COVID Tracking Project (.csv)](https://covidtracking.com/data/download/all-states-history.csv)
+  * [Data key](https://covidtracking.com/about-data/data-definitions)
+  * [Original source - The COVID Tracking Project](https://covidtracking.com/)
+  * [License - CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## Messy Data (much cleaning and wrangling needed)
 
+### COVID-19
+* [The COVID Tracking Project - Racial Data Tracker](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_xmYt4ACPDZCDJcY12kCiMiH0ODyx3E1ZvgOHB8ae1tRcjXbs_yWBOA4j4uoCEADVfC1PS2jYO68B/pub?gid=43720681&single=true&output=csv)
+  * [Original source - COVID Tracking Project and the Boston University Center for Antiracist Research](https://covidtracking.com/race)
+  * [License - CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+  
 ### Crime and Crime Reporting
 * [University of Illinois Daily Crime Log, last 60 days from 11-09-2020 (.csv)](https://uofi.box.com/shared/static/9kbea1n12qic6x7g8ginge299rrfjo15.csv)
   * [Data key](http://police.illinois.edu/dpsapp/wp-content/uploads/2016/02/Crime-Log-Instructions.pdf)
