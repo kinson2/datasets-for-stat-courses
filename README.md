@@ -1,5 +1,5 @@
 # datasets-for-stat-courses
-This is a collection of datasets that are shareable, public, and useful for courses in the Statistics Department.
+This is a collection of datasets that are shareable, public, and useful for data-driven courses
 
 ## Clean Data (little cleaning and wrangling needed)
 
@@ -18,3 +18,7 @@ This is a collection of datasets that are shareable, public, and useful for cour
 
 * [Champaign County Sheriff's Office and Jail Bookings, 01-01-2019 to 07-31-2020 (.xlsx)](https://data.illinois.gov/dataset/ed47a5f0-df3b-43d1-878e-d390411a0cde/resource/8ca192da-32f9-4d0a-ab9e-c92b46f64bb8/download/copy-of-jail-data-1_1_2019-thru-7_31_2020.xlsx)
   * [Original source](https://data.illinois.gov/dataset/jail-data-1-01-19-thru-7-31-20)
+
+### Housing
+* [City of Urbana Rental Inspection Grades Listing .(.csv)](https://data.urbanaillinois.us/api/views/tn7v-fm2b/rows.csv?accessType=DOWNLOAD)
+  * [Original source](https://data.urbanaillinois.us/Buildings/Rental-Inspection-Grades-Listing/tn7v-fm2b)
