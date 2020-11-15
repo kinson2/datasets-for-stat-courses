@@ -9,12 +9,23 @@ This is a collection of datasets that are shareable, public, and useful for data
   * [Original source - The COVID Tracking Project](https://covidtracking.com/)
   * [License - CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
+* [The New York Times Coronavirus Data in the United States - Historical state level, (.csv)](https://github.com/nytimes/covid-19-data/blob/master/us-states.csv) and [The New York Times Coronavirus Data in the United States - Historical county level, (.csv)](https://github.com/nytimes/covid-19-data/blob/master/us-counties.csv)
+  * [Data key](https://github.com/nytimes/covid-19-data/blob/master/README.md)
+  * [Original source - The New York Times](https://github.com/nytimes/covid-19-data)
+  * [License](https://github.com/nytimes/covid-19-data/blob/master/LICENSE)
+
 ## Messy Data (much cleaning and wrangling needed)
 
 ### COVID-19
 * [The COVID Tracking Project - Racial Data Tracker](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_xmYt4ACPDZCDJcY12kCiMiH0ODyx3E1ZvgOHB8ae1tRcjXbs_yWBOA4j4uoCEADVfC1PS2jYO68B/pub?gid=43720681&single=true&output=csv)
   * [Original source - COVID Tracking Project and the Boston University Center for Antiracist Research](https://covidtracking.com/race)
   * [License - CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
+## Business and Finance
+* [United States Small Business Administration Historical Business Loans, (.zip)](https://www.tandfonline.com/doi/suppl/10.1080/10691898.2018.1434342/suppl_file/ujse_a_1434342_sm1547.zip)
+  * [Data key](https://www.tandfonline.com/doi/figure/10.1080/10691898.2018.1434342?scroll=top&needAccess=true)
+  * [Original source -  Min Li, Amy Mickel & Stanley Taylor (2018) “Should This Loan be Approved or Denied?”: A Large Dataset with Class Assignment Guidelines, Journal of Statistics Education, 26:1, 55-66, DOI: 10.1080/10691898.2018.1434342](https://www.tandfonline.com/doi/full/10.1080/10691898.2018.1434342)
+  * [License - CC BY-NC 4.0](https://www.tandfonline.com/action/showCopyRight?scroll=top&doi=10.1080%2F10691898.2018.1434342)
   
 ### Crime and Crime Reporting
 * [University of Illinois Daily Crime Log, last 60 days from 11-09-2020 (.csv)](https://uofi.box.com/shared/static/9kbea1n12qic6x7g8ginge299rrfjo15.csv)
