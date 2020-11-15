@@ -14,13 +14,13 @@ This is a collection of datasets that are shareable, public, and useful for data
   * [Original source - The New York Times](https://github.com/nytimes/covid-19-data)
   * [License](https://github.com/nytimes/covid-19-data/blob/master/LICENSE)
 
-## Business and Finance
+### Business and Finance
 * [United States Small Business Administration Historical Business Loans, (.zip)](https://www.tandfonline.com/doi/suppl/10.1080/10691898.2018.1434342/suppl_file/ujse_a_1434342_sm1547.zip)
   * [Data key](https://www.tandfonline.com/doi/figure/10.1080/10691898.2018.1434342?scroll=top&needAccess=true)
   * [Original source -  Min Li, Amy Mickel & Stanley Taylor (2018) “Should This Loan be Approved or Denied?”: A Large Dataset with Class Assignment Guidelines, Journal of Statistics Education, 26:1, 55-66, DOI: 10.1080/10691898.2018.1434342](https://www.tandfonline.com/doi/full/10.1080/10691898.2018.1434342)
   * [License - CC BY-NC 4.0](https://www.tandfonline.com/action/showCopyRight?scroll=top&doi=10.1080%2F10691898.2018.1434342)
  
-## Election
+### Election
 * [Champaign County Vote By Mail Reqest Report, November 1, 2020, (.csv)](https://uofi.box.com/shared/static/dty5bxsi8pa4dfgly7ap9jtcp1806imy.csv)
   * [Original source - Champaign County Clerk - Elections Division](https://champaigncountyclerk.com/elections/my-voting-information/vote-mail-ballot-request)
 
