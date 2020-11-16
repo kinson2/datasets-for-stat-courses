@@ -3,6 +3,15 @@ This is a collection of datasets that are shareable, public, and useful for data
 
 ## Clean Data (little cleaning and wrangling needed)
 
+### Birth
+* [Centers for Disease Control and Prevention National Vital Statistics System US Natality, 2019, (.zip)](ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/DVS/natality/Nat2019us.zip) and [Centers for Disease Control and Prevention National Vital Statistics System US Territories Natality, 2019, (.zip)](ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/DVS/natality/Nat2019ps.zip)
+  * [Data key](ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/DVS/natality/UserGuide2019-508.pdf)
+  * [Original source](https://www.cdc.gov/nchs/nvss/births.htm)
+
+* [Centers for Disease Control and Prevention National Vital Statistics System US Natality, 2015, (.zip)](ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/DVS/natality/Nat2015us.zip) and [Centers for Disease Control and Prevention National Vital Statistics System US Territories Natality, 2015, (.zip)](ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/DVS/natality/Nat2015ps.zip)
+  * [Data key](ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/DVS/natality/UserGuide2015.pdf)
+  * [Original source](https://www.cdc.gov/nchs/nvss/births.htm)
+  
 ### Business and Finance
 * [United States Small Business Administration Historical Business Loans, (.zip)](https://www.tandfonline.com/doi/suppl/10.1080/10691898.2018.1434342/suppl_file/ujse_a_1434342_sm1547.zip)
   * [Data key](https://www.tandfonline.com/doi/figure/10.1080/10691898.2018.1434342?scroll=top&needAccess=true)
