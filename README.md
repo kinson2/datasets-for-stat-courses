@@ -25,7 +25,7 @@ This is a collection of datasets that are shareable, public, and useful for data
   * [Original source - Champaign County Clerk - Elections Division](https://champaigncountyclerk.com/elections/my-voting-information/vote-mail-ballot-request)
 
 ### Music and Entertainent
-* [Miles Davis Discography - Spotify's Web API, (.csv)](https://uofi.box.com/shared/static/9ww32c6lt6rruhyidjxangc3lmmxjeo7.csv)
+* [Miles Davis Discography - Song Attributes via Spotify's Web API, (.csv)](https://uofi.box.com/shared/static/9ww32c6lt6rruhyidjxangc3lmmxjeo7.csv)
 
 ### Transportation
 * [City of Chicago's Divvy Bicycle Sharing Service - Historical Trips](https://divvy-tripdata.s3.amazonaws.com/index.html)
@@ -69,3 +69,6 @@ This is a collection of datasets that are shareable, public, and useful for data
 * [City of Urbana Rental Inspection Grades Listing (.csv)](https://data.urbanaillinois.us/api/views/tn7v-fm2b/rows.csv?accessType=DOWNLOAD)
   * [Original source](https://data.urbanaillinois.us/Buildings/Rental-Inspection-Grades-Listing/tn7v-fm2b)
   * [License](https://data.urbanaillinois.us/terms-of-use)
+
+### Space and Extraterrestrial Life
+* [NASA Center for Near Earth Object Studies - Jet Propulsion Laboratory SBDB (Small-Body DataBase) Close Approach Data API](https://ssd-api.jpl.nasa.gov/doc/cad.html)
