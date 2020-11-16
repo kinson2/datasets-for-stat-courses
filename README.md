@@ -72,3 +72,5 @@ This is a collection of datasets that are shareable, public, and useful for data
 
 ### Space and Extraterrestrial Life
 * [NASA Center for Near Earth Object Studies - Jet Propulsion Laboratory SBDB (Small-Body DataBase) Close Approach Data API](https://ssd-api.jpl.nasa.gov/doc/cad.html)
+  * [Data key](https://cneos.jpl.nasa.gov/glossary/)
+  * [Original source](https://cneos.jpl.nasa.gov/ca/)
