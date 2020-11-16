@@ -24,13 +24,24 @@ This is a collection of datasets that are shareable, public, and useful for data
 * [Champaign County Vote By Mail Reqest Report, November 1, 2020, (.csv)](https://uofi.box.com/shared/static/dty5bxsi8pa4dfgly7ap9jtcp1806imy.csv)
   * [Original source - Champaign County Clerk - Elections Division](https://champaigncountyclerk.com/elections/my-voting-information/vote-mail-ballot-request)
 
+### Music and Entertainent
+* [Miles Davis Discography - Spotify's Web API, (.csv)](https://uofi.box.com/shared/static/9ww32c6lt6rruhyidjxangc3lmmxjeo7.csv)
+
 ### Transportation
 * [City of Chicago's Divvy Bicycle Sharing Service - Historical Trips](https://divvy-tripdata.s3.amazonaws.com/index.html)
   * [Data key](https://www.divvybikes.com/system-data)
   * [Original source](https://www.divvybikes.com/system-data)
   * [License](https://www.divvybikes.com/data-license-agreement)
 
+* [Champaign County Regional Planning Commission - Bicycle Crashes, (.json)](https://maps.ccrpc.org/data/public/street.bicycle_crashes?filename=bicycle_crashes&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwdWJsaWMiLCJleHAiOjIxNzUxODA3OTMsImlzcyI6ImNjcnBjLm9yZyIsImlhdCI6MTU0NDQ2MDc5Mn0.cr4tAd5-WlSxcxuM_yWeyuuvQdBdlNivr-3Ud8kc2Sc)
+  * [Original source](https://data.ccrpc.org/dataset/traffic-crashes)
+  * [License - ODbL 1.0](http://www.opendefinition.org/licenses/odc-odbl)
 
+* [Champaign County Regional Planning Commission - Pedestrian Crashes, (.json)](https://maps.ccrpc.org/data/public/street.pedestrian_crashes?filename=pedestrian_crashes&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwdWJsaWMiLCJleHAiOjIxNzUxODA3OTMsImlzcyI6ImNjcnBjLm9yZyIsImlhdCI6MTU0NDQ2MDc5Mn0.cr4tAd5-WlSxcxuM_yWeyuuvQdBdlNivr-3Ud8kc2Sc)
+  * [Original source](https://data.ccrpc.org/dataset/traffic-crashes)
+  * [License - ODbL 1.0](http://www.opendefinition.org/licenses/odc-odbl)
+  
+  
 ## Messy Data (much cleaning and wrangling needed)
 
 ### COVID-19
