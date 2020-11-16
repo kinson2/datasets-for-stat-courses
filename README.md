@@ -52,6 +52,7 @@ This is a collection of datasets that are shareable, public, and useful for data
 ### Housing
 * [City of Urbana Rental Inspection Grades Listing (.csv)](https://data.urbanaillinois.us/api/views/tn7v-fm2b/rows.csv?accessType=DOWNLOAD)
   * [Original source](https://data.urbanaillinois.us/Buildings/Rental-Inspection-Grades-Listing/tn7v-fm2b)
+  * [License](https://data.urbanaillinois.us/terms-of-use)
 
 ### Dining and Food
 * [City of Chicago Food Inspections (.csv)](https://data.cityofchicago.org/api/views/4ijn-s7e5/rows.csv?accessType=DOWNLOAD)
