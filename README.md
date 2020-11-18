@@ -30,7 +30,7 @@ This is a collection of datasets that are shareable, public, and useful for data
 * [Champaign County Vote By Mail Reqest Report, November 1, 2020, (.csv)](https://uofi.box.com/shared/static/dty5bxsi8pa4dfgly7ap9jtcp1806imy.csv)
   * [Original source - Champaign County Clerk - Elections Division](https://champaigncountyclerk.com/elections/my-voting-information/vote-mail-ballot-request)
 
-* [MIT Election Data and Science Lab U.S. President 1976–2016](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/42MVDX&version=5.0)
+* [MIT Election Data and Science Lab's U.S. Presidential Election Results 1976–2016](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/42MVDX&version=5.0)
   * [Data key](https://dataverse.harvard.edu/api/access/datafile/:persistentId?persistentId=doi:10.7910/DVN/42MVDX/QRMOS8)
   * [Original source -  MIT Election Data and Science Lab, 2017, "U.S. President 1976–2016", https://doi.org/10.7910/DVN/42MVDX, Harvard Dataverse, V5, UNF:6:Mw0hOUHAijKPTVRAe5jJvg== [fileUNF]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/42MVDX&version=5.0)
 
